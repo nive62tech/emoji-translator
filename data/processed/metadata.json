@@ -1,0 +1,24 @@
+{
+    "train_shape": [
+        70000,
+        5
+    ],
+    "test_shape": [
+        25958,
+        5
+    ],
+    "train_columns": [
+        "Unnamed: 0",
+        "TEXT",
+        "Label",
+        "clean_text",
+        "tokens"
+    ],
+    "test_columns": [
+        "Unnamed: 0",
+        "id",
+        "TEXT",
+        "clean_text",
+        "tokens"
+    ]
+}
